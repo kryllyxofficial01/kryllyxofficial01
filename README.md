@@ -7,12 +7,16 @@
 - Twitch: [KryllyxOfficialLive](https://www/twitch.tv/kryllyxofficiallive)
 - Discord: TheRealKryllyx#3227 (no friend requests, just DM's for now)
 
+### Languages I Know
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="40" width="40">
+<img src="https://user-images.githubusercontent.com/97801783/157500463-3ebad330-4866-46f3-819d-bdc1f6c90b1f.png" height="40" width="40">
+
 ### Tools I Use
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/97801783/157500463-3ebad330-4866-46f3-819d-bdc1f6c90b1f.png" height="40" width="40">
- <img src="https://user-images.githubusercontent.com/97801783/157501251-acfd49b2-bf70-43ef-bd08-f9514ccb76ed.png" height="40" width="40">
+<img src="https://user-images.githubusercontent.com/97801783/157501251-acfd49b2-bf70-43ef-bd08-f9514ccb76ed.png" height="40" width="40">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40">
+<img src="https://user-images.githubusercontent.com/97801783/157542140-50c44a03-dfd4-440b-b864-e2bb6a5b0445.png" height="40" width="40">
 <img src="https://absolllute.com/store/img/mh.png" height="40" width="40">
 
 ### Games I Play
