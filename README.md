@@ -6,6 +6,7 @@
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
 - Twitch: [KryllyxOfficialLive](https://www/twitch.tv/kryllyxofficiallive)
 - Discord: TheRealKryllyx#3227 (no friend requests, just DM's for now)
+- No, I don't have a Scratch account. Don't ask.
 
 ### Random Facts About Me
 - High Schooler
