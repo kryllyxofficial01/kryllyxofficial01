@@ -3,8 +3,8 @@
 - Repl.it: [TheRealKryllyx](https://replit.com/@therealkryllyx)
 - Geometry Dash: [KryllyxGaming](https://gdbrowser.com/u/kryllyxgaming)
 - Xbox Gamertag: KryllyxOfficial
-- Steam: KryllyxGaming
-- Twitch: kryllyxofficial
+- Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
+- Twitch: [KryllyxOfficialLive](https://www/twitch.tv/kryllyxofficiallive)
 - Discord: TheRealKryllyx#3227
 
 ### Languages I know:
