@@ -19,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="40" width="40" alt="Python">
 <img src="https://user-images.githubusercontent.com/97801783/157500463-3ebad330-4866-46f3-819d-bdc1f6c90b1f.png" height="40" width="40" alt="Java">
 
-### What I use Pretty Often For Various Things
+### Stuff I Use
 <p align="left">
 <img src="https://user-images.githubusercontent.com/97801783/157501251-acfd49b2-bf70-43ef-bd08-f9514ccb76ed.png" height="40" width="40" alt="Visual Studio Code">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40" alt="Git">
