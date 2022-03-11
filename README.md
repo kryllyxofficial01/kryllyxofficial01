@@ -47,8 +47,8 @@
 <img src="https://user-images.githubusercontent.com/97801783/157682310-481000e1-76c5-4e96-ab70-a6098bc91e4e.png" height="40" width="60" alt="Spider">
 
 ##### My Minecraft Resources (Skin and Texture Pack)
-- [Skin](https://github.com/kryllyxofficial01/kryllyxofficial01/blob/main/223223C1-6DAB-492E-8048-9C54C9D2B28D.png)
-- [Texture Pack (Codecrafted for Bedrock)](https://github.com/kryllyxofficial01/kryllyxofficial01/blob/main/CodeCrafted%20Texture%20Pack.mcpack)
+- [Skin](https://github.com/kryllyxofficial01/kryllyxofficial01/blob/main/Resources/minecraftskin.png)
+- [Texture Pack (Codecrafted for Bedrock)](https://github.com/kryllyxofficial01/kryllyxofficial01/blob/main/Resources/710_CodeCrafted_Cus.mcpack)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ![](https://visitor-badge.laobi.icu/badge?page_id=kryllyxofficial01.kryllyxofficial01)
