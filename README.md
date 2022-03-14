@@ -51,4 +51,4 @@
 - [Texture Pack (Codecrafted for Bedrock)](https://github.com/kryllyxofficial01/kryllyxofficial01/blob/main/Resources/710_CodeCrafted_Cus.mcpack)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-![](https://visitor-badge.laobi.icu/badge?page_id=kryllyxofficial01.kryllyxofficial01)
+![Number of Visitors](https://visitor-badge.laobi.icu/badge?page_id=kryllyxofficial01.kryllyxofficial01)
