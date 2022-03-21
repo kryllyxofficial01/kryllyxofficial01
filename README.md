@@ -1,5 +1,10 @@
 # Hi! I'm Kryllyx!
 
+### About Me
+I'm a beginner software developer who is way too ambitious with projects. When I'm not raging at my non-functioning code, I'm either clicking my mouse really fast playing Geometry Dash, or trying to figure out how redstone in Minecraft works.
+
+I really need to pick a hobby.
+
 ### My stuff:
 - YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg/)
 - Repl.it: [TheRealKryllyx](https://replit.com/@therealkryllyx)
