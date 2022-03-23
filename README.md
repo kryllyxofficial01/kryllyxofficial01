@@ -43,13 +43,13 @@ I really need to pick a hobby.
   
 ##### My Icon Set In Geometry Dash
 <p align="left">
-<img src="https://user-images.githubusercontent.com/97801783/157680078-cb7fd440-5e54-4801-86f9-bb9f51b63df0.png" height="40" width="40" alt="Cube">
+<img src="https://user-images.githubusercontent.com/97801783/159811041-d9f04fd4-ef4a-46ff-acfd-b6bdda4fd98d.png" height="40" width="40" alt="Cube">
 <img src="https://user-images.githubusercontent.com/97801783/157680442-ce2b49b0-a676-41e7-af80-85c5d18a5293.png" height="40" width="70" alt="Ship">
 <img src="https://user-images.githubusercontent.com/97801783/157680831-0fb49342-d9cc-465c-a5ea-a849dd46e27a.png" height="40" width="40" alt="Ball">
 <img src="https://user-images.githubusercontent.com/97801783/157681460-c43bfe79-0bef-42a5-bcbc-34ecbd336a06.png" height="40" width="50" alt="Ufo">
 <img src="https://user-images.githubusercontent.com/97801783/157681824-1cdcdc7a-1be0-45cf-ada2-fe1e023abcbb.png" height="40" width="50" alt="Wave">
-<img src="https://user-images.githubusercontent.com/97801783/157682132-a1209be2-ea0f-4a93-a381-1ad74f045ada.png" height="40" width="40" alt="Robot">
-<img src="https://user-images.githubusercontent.com/97801783/157682310-481000e1-76c5-4e96-ab70-a6098bc91e4e.png" height="40" width="60" alt="Spider">
+<img src="https://user-images.githubusercontent.com/97801783/159811135-2955296b-c1d1-4455-bf0d-f70f7ffdf599.png" height="45" width="40" alt="Robot">
+<img src="https://user-images.githubusercontent.com/97801783/159811363-d85aee67-a021-4a7f-938e-10f40b17299b.png" height="40" width="50" alt="Spider">
 
 ##### My Custom Minecraft Resources
 - [Skin](https://github.com/kryllyxofficial01/kryllyxofficial01/blob/main/Resources/minecraftskin.png)
