@@ -20,6 +20,7 @@ I need a life.
 - Can Reach 13 CPS
 - Making a Calculator in Minecraft
 - Trying to Make a Discord Bot (not open-source)
+- Mod for Selisine#1068
 
 ### Decently Fluent In
 <p align="left">
