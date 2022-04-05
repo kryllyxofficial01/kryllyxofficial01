@@ -1,9 +1,9 @@
 # Hi! I'm Kryllyx!
 
 ### About Me
-I'm a beginner software developer who is way too ambitious with projects. When I'm not raging at my non-functioning code, I'm either spamming left-click whilst playing Geometry Dash, or trying to figure out how redstone in Minecraft works.
+I'm a beginner software developer who is way too ambitious with projects. My hobbies are raging at my non-functioning code, getting confused by redstone, and spamming left-click.
 
-I really need to pick a hobby.
+I need a life.
 
 ### My stuff:
 - YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg/)
@@ -12,14 +12,14 @@ I really need to pick a hobby.
 - Xbox Gamertag: KryllyxOfficial
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
 - Twitch: [KryllyxOfficialLive](https://www/twitch.tv/kryllyxofficiallive)
-- Discord: TheRealKryllyx#3227 (no friend requests, just DM's for now)
+- Discord: TheRealKryllyx#3227
 - No, I don't have a Scratch account. Don't ask.
 
 ### Random Facts About Me
 - High Schooler
 - Can Reach 13 CPS
 - Making a Calculator in Minecraft
-- Trying to Make a Discord Bot
+- Trying to Make a Discord Bot (not open-source)
 
 ### Decently Fluent In
 <p align="left">
