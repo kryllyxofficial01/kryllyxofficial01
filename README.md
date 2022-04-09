@@ -62,8 +62,8 @@ I need a life.
 - [Skin](https://github.com/kryllyxofficial01/kryllyxofficial01/blob/main/Resources/minecraftskin.png)
 - [Texture Pack (Codecrafted for Bedrock)](https://github.com/kryllyxofficial01/kryllyxofficial01/blob/main/Resources/710_CodeCrafted_Cus.mcpack)
 
-#
-  
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryllyxofficial01)
 ----------------------------------------------------------------------------------------------------------------------------------------
+### My Stats  
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryllyxofficial01)
+#
 ![Number of Visitors](https://visitor-badge.laobi.icu/badge?page_id=kryllyxofficial01.kryllyxofficial01)
