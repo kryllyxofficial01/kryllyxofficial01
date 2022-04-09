@@ -1,7 +1,7 @@
 # Hi! I'm Kryllyx!
 
 ### About Me
-I'm a beginner software developer who is way too ambitious with projects. My hobbies are raging at my non-functioning code, getting confused by redstone, and spamming left-click.
+I'm a beginner software developer who is way too ambitious with projects. My hobbies are raging at my non-functioning code, getting baffled by redstone, and sometimes spamming my mouse unneccesarily fast.
 
 I need a life.
 
