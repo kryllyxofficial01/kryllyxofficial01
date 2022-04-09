@@ -64,6 +64,6 @@ I need a life.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ### My Stats  
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryllyxofficial01)
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryllyxofficial01&show_icons=true&theme=react)
 #
 ![Number of Visitors](https://visitor-badge.laobi.icu/badge?page_id=kryllyxofficial01.kryllyxofficial01)
