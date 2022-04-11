@@ -13,14 +13,15 @@ I need a life.
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
 - Twitch: [KryllyxOfficialLive](https://www/twitch.tv/kryllyxofficiallive)
 - Discord: TheRealKryllyx#3227
+- Discord Server: Private for now (still working on some stuff).
 - No, I don't have a Scratch account. Don't ask.
 
 ### Random Facts About Me
 - High Schooler
-- Can Reach 13 CPS
+- Can Reach 13 CPS on mouse, and 12 CPS on spacebar.
 - Making a Calculator in Minecraft
 - Trying to Make a Discord Bot (not open-source)
-- Mod for [@Selisine](https://github.com/aidenpike)'s Twitch Server and Twitch Channel
+- Mod for [@Selisine](https://github.com/aidenpike)'s Twitch Server and Channel.
 
 ### Decently Fluent In
 <p align="left">
