@@ -38,7 +38,6 @@ I need a life.
 <p align="left">
 <img src="https://user-images.githubusercontent.com/97801783/157501251-acfd49b2-bf70-43ef-bd08-f9514ccb76ed.png" height="40" width="40" alt="Visual Studio Code">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40" alt="Git">
-<img src="https://user-images.githubusercontent.com/97801783/157544916-2a57056f-7bf4-4b56-a351-34f326f6dbd0.png" height="40" width="40" alt="GitHub">
 <img src="https://absolllute.com/store/img/mh.png" height="40" width="40" alt="Mega Hack v6">
 <img src="https://user-images.githubusercontent.com/97801783/157543869-0ce18300-5aec-469f-b451-d61c17ad7498.png" height="40" width="40" alt="Discord">
 
