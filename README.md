@@ -21,7 +21,7 @@ I need a life.
 - Can Reach 13 CPS on mouse, and 12 CPS on spacebar.
 - Making a Calculator in Minecraft
 - Trying to Make a Discord Bot (not open-source)
-- Mod for [@Selisine](https://github.com/aidenpike)'s Twitch Server and Channel.
+- Mod for [@Selisine](https://github.com/aidenpike).
 
 ### Decently Fluent In
 <p align="left">
