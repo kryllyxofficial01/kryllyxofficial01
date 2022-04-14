@@ -50,6 +50,6 @@ I need a life.
 ----------------------------------------------------------------------------------------------------------------------------------------
 ### My Stats
 <p align="center">
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryllyxofficial01&show_icons=true&theme=react)
-#
-![Number of Visitors](https://visitor-badge.laobi.icu/badge?page_id=kryllyxofficial01.kryllyxofficial01)
+<img src="https://github-readme-stats.vercel.app/api?username=kryllyxofficial01&show_icons=true&theme=react">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kryllyxofficial01.kryllyxofficial01">
