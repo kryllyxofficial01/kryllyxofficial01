@@ -47,24 +47,9 @@ I need a life.
 <img src="https://pht.qoo-static.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=w512" height="40" width="40" alt="Minecraft">
 <img src="https://user-images.githubusercontent.com/97801783/157509008-86784ef6-d154-44ab-aab8-b7387bcee6f6.png" height="40" width="40" alt="Geometry Dash">
 
-#
-  
-##### My Icon Set In Geometry Dash
-<p align="left">
-<img src="https://user-images.githubusercontent.com/97801783/159811041-d9f04fd4-ef4a-46ff-acfd-b6bdda4fd98d.png" height="40" width="40" alt="Cube">
-<img src="https://user-images.githubusercontent.com/97801783/157680442-ce2b49b0-a676-41e7-af80-85c5d18a5293.png" height="40" width="70" alt="Ship">
-<img src="https://user-images.githubusercontent.com/97801783/157680831-0fb49342-d9cc-465c-a5ea-a849dd46e27a.png" height="40" width="40" alt="Ball">
-<img src="https://user-images.githubusercontent.com/97801783/157681460-c43bfe79-0bef-42a5-bcbc-34ecbd336a06.png" height="40" width="50" alt="Ufo">
-<img src="https://user-images.githubusercontent.com/97801783/157681824-1cdcdc7a-1be0-45cf-ada2-fe1e023abcbb.png" height="40" width="50" alt="Wave">
-<img src="https://user-images.githubusercontent.com/97801783/159811135-2955296b-c1d1-4455-bf0d-f70f7ffdf599.png" height="45" width="40" alt="Robot">
-<img src="https://user-images.githubusercontent.com/97801783/159811363-d85aee67-a021-4a7f-938e-10f40b17299b.png" height="40" width="50" alt="Spider">
-
-##### My Custom Minecraft Resources
-- [Skin](https://github.com/kryllyxofficial01/kryllyxofficial01/blob/main/Resources/minecraftskin.png)
-- [Texture Pack (Codecrafted for Bedrock)](https://github.com/kryllyxofficial01/kryllyxofficial01/blob/main/Resources/710_CodeCrafted_Cus.mcpack)
-
 ----------------------------------------------------------------------------------------------------------------------------------------
-### My Stats  
+### My Stats
+<p align="center">
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryllyxofficial01&show_icons=true&theme=react)
 #
 ![Number of Visitors](https://visitor-badge.laobi.icu/badge?page_id=kryllyxofficial01.kryllyxofficial01)
