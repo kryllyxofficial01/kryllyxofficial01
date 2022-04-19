@@ -11,7 +11,7 @@ I need a life.
 - Geometry Dash: [KryllyxGaming](https://gdbrowser.com/u/kryllyxgaming)
 - Xbox Gamertag: KryllyxOfficial
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
-- Twitch: [KryllyxOfficialLive](https://www/twitch.tv/kryllyxofficiallive)
+- Twitch: [KryllyxOfficialLive](https://www/twitch.tv/kryllyxofficiallive) (Not streaming yet...)
 - Discord: TheRealKryllyx#3227
 - Discord Server: Private for now (still working on some stuff).
 - No, I don't have a Scratch account. Don't ask.
