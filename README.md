@@ -21,6 +21,7 @@ I need a life.
 - Can Reach 13 CPS on mouse, and 12 CPS on spacebar.
 - Making a Calculator in Minecraft.
 - Trying to Make a Discord Bot (not open-source).
+- Developer of the unofficial extension of Python, Python++.
 - Mod for [Selisine](https://github.com/aidenpike).
 - Member of [The Blastcast](https://github.com/The-Blastcast).
 
