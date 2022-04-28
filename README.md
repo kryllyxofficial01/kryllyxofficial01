@@ -14,6 +14,7 @@ I need a life.
 - Twitch: [KryllyxOfficialLive](https://www/twitch.tv/kryllyxofficiallive) (Not streaming yet...)
 - Discord: TheRealKryllyx#3227
 - Discord Server: Private for now (still working on some stuff).
+- Website: Coming soon to a server near you...
 - No, I don't have a Scratch account. Don't ask.
 
 ### Random Facts About Me
