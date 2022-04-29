@@ -29,10 +29,10 @@ I need a life.
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="40" width="40" alt="Python">
 <img src="https://user-images.githubusercontent.com/97801783/157500463-3ebad330-4866-46f3-819d-bdc1f6c90b1f.png" height="40" width="40" alt="Java">
+<img src="https://user-images.githubusercontent.com/97801783/161779304-c572e43a-1650-4244-953a-ede0db5456d3.png" height="40" width="40" alt="C++">
 
 ### Languages I Plan To Learn
 <p align="left">
-<img src="https://user-images.githubusercontent.com/97801783/161779304-c572e43a-1650-4244-953a-ede0db5456d3.png" height="40" width="40" alt="C++">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="40" width="40" alt="HTML">
 <img src="https://user-images.githubusercontent.com/97801783/161780716-2cb7800f-83ed-47c1-b78c-bc22d87d3f96.png" height="40" width="40" alt="JavaScript">
   
