@@ -47,9 +47,3 @@ I need a life.
 <p align="left">
 <img src="https://pht.qoo-static.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=w512" height="40" width="40" alt="Minecraft">
 <img src="https://user-images.githubusercontent.com/97801783/157509008-86784ef6-d154-44ab-aab8-b7387bcee6f6.png" height="40" width="40" alt="Geometry Dash">
-
-----------------------------------------------------------------------------------------------------------------------------------------
-### My Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=kryllyxofficial01&show_icons=true&theme=react)
-#
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kryllyxofficial01.kryllyxofficial01)
