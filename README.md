@@ -27,22 +27,15 @@ I need a life.
 
 ### Decently Fluent In
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="40" width="40" alt="Python">
-<img src="https://user-images.githubusercontent.com/97801783/157500463-3ebad330-4866-46f3-819d-bdc1f6c90b1f.png" height="40" width="40" alt="Java">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">
 <img src="https://user-images.githubusercontent.com/97801783/161779304-c572e43a-1650-4244-953a-ede0db5456d3.png" height="40" width="40" alt="C++">
 
 ### Languages I Plan To Learn
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="40" width="40" alt="HTML">
-<img src="https://user-images.githubusercontent.com/97801783/161780716-2cb7800f-83ed-47c1-b78c-bc22d87d3f96.png" height="40" width="40" alt="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" width="40" alt="HTML">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript">
   
-### Stuff I Use
-<p align="left">
-<img src="https://user-images.githubusercontent.com/97801783/157501251-acfd49b2-bf70-43ef-bd08-f9514ccb76ed.png" height="40" width="40" alt="Visual Studio Code">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40" alt="Git">
-<img src="https://absolllute.com/store/img/mh.png" height="40" width="40" alt="Mega Hack v6">
-<img src="https://user-images.githubusercontent.com/97801783/157543869-0ce18300-5aec-469f-b451-d61c17ad7498.png" height="40" width="40" alt="Discord">
-
 ### Games I Play
 <p align="left">
 <img src="https://pht.qoo-static.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=w512" height="40" width="40" alt="Minecraft">
