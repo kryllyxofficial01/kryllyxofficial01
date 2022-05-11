@@ -13,7 +13,7 @@ I need a life.
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
 - Twitch: [KryllyxOfficialLive](https://www/twitch.tv/kryllyxofficiallive) (Not streaming yet...)
 - Discord: TheRealKryllyx#3227
-- Discord Server: Private for now (still working on some stuff).
+- Discord Server: Private for now (but very close to release...).
 - Website: Coming soon to a server near you...
 - No, I don't have a Scratch account. Don't ask.
 
