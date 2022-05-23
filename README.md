@@ -20,7 +20,6 @@ I need a life.
 ### Random Facts About Me
 - High Schooler
 - Can Reach 13 CPS on mouse, and 12 CPS on spacebar.
-- Making a Calculator in Minecraft.
 - Trying to Make a Discord Bot (not open-source).
 - Mod for [Selisine](https://github.com/aidenpike).
 - Member of [The Blastcast](https://github.com/The-Blastcast).
