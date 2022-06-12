@@ -11,7 +11,6 @@ I need a life.
 - Geometry Dash: [KryllyxGaming](https://gdbrowser.com/u/kryllyxgaming)
 - Xbox Gamertag: KryllyxOfficial
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
-- Twitch: [KryllyxOfficialLive](https://www/twitch.tv/therealkryllyx)
 - Discord: TheRealKryllyx#3227
 - Discord Server: [The Ruckus](https://discord.gg/AF4VQyAuzF)
 - Website: Coming soon to a server near you...
