@@ -35,3 +35,6 @@ I need a life.
 Want to collab with me on a Python, Java, or C++ project? Just DM me (username above in **My Stuff**) the project details and what you would like my help with. Believe me: it would be nice to have a collaborative project finally. I've been pretty much completely solo so far.
   
 *Quick disclaimer: I may not always say yes. Please don't rage at me if I decline.*
+
+### Credits
+Profile Picture: https://ibispaint.com/art/575208857/
