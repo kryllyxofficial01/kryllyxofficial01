@@ -1,9 +1,7 @@
 # Hi! I'm Kryllyx!
 
 ### About Me
-I'm a beginner software developer who is way too ambitious with projects. My hobbies are raging at my non-functioning code, getting baffled by redstone, and sometimes spamming my mouse unneccesarily fast.
-
-I need a life.
+I'm an amateur software developer who can be a bit too ambitious with projects. I have been coding for around two years, which I think means I can call myself a semi-proficient programmer. I am also an avid redstoner, who is currently trying to make a working CPU in Minecraft.
 
 ### My Stuff:
 - YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg/)
@@ -17,8 +15,8 @@ I need a life.
 
 ### Random Facts About Me
 - High Schooler
-- Can Reach 13 CPS on mouse, and 12 CPS on spacebar.
-- Making a Calculator in Minecraft (about 1/3 done).
+- Can Reach 14 CPS on mouse, 13 CPS on spacebar, and 20 CPS with both up arrow and spacebar.
+- Making a CPU in Minecraft (1/8 done).
 
 ### Languages You'll Typically Find Me Coding In
 <p align="left">
@@ -32,9 +30,7 @@ I need a life.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript">
 
 ### Collaboration
-Want to collab with me on a Python, Java, or C++ project? Just DM me (username above in **My Stuff**) the project details and what you would like my help with. Believe me: it would be nice to have a collaborative project finally. I've been pretty much completely solo so far.
-  
-*Quick disclaimer: I may not always say yes. Please don't rage at me if I decline.*
+Want to do a coding project with me? Just DM me in Discord (I'm pretty active, so you shouldn't have to wait long for an answer) with the details of what you have in mind. Be aware I am not the most experienced in some areas of software development. I may decline, purely because I know nothing about the project type. But for the most part, I will usually be pretty okay with doing a project with you. Hope to see your ideas!
 
 ### Credits
 Profile Picture: https://ibispaint.com/art/575208857/
