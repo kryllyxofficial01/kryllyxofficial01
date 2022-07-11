@@ -7,7 +7,8 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 - YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg/)
 - Repl.it: [TheRealKryllyx](https://replit.com/@therealkryllyx)
 - Geometry Dash: [KryllyxGaming](https://gdbrowser.com/u/kryllyxgaming)
-- Xbox Gamertag: KryllyxOfficial
+- Minecraft Java: [KryllyxGaming](https://namemc.com/profile/KryllyxGaming.1)
+- Minecraft Bedrock (Xbox Gamertag): KryllyxOfficial
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
 - Discord: TheRealKryllyx#3227
 - Discord Server: [The Ruckus](https://discord.gg/AF4VQyAuzF)
