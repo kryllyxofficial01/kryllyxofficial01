@@ -31,7 +31,7 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript">
 
 ### Collaboration
-Want to do a coding project with me? Just DM me in Discord (I'm pretty active, so you shouldn't have to wait long for an answer) with the details of what you have in mind. Be aware I am not the most experienced in some areas of software development. I may decline, purely because I know nothing about the project type. But for the most part, I will usually be pretty okay with doing a project with you. Hope to see your ideas!
+I'm pretty cool with doing a collab with someone. All you need to do is DM me on Discord. If you have a project in mind, then tell me about that. If you want input from me, also mention that. Or maybe you just want me to playtest a game you made, or give bugfixes. Yeah, that's pretty much it. Collaboration is cool.
 
 ### Credits
 Profile Picture: https://ibispaint.com/art/575208857/
