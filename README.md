@@ -26,9 +26,11 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 <img src="https://user-images.githubusercontent.com/97801783/161779304-c572e43a-1650-4244-953a-ede0db5456d3.png" height="40" width="40" alt="C++">
 
 ### Probably Going to Learn These Eventually
-<p align="left">
+<p align="left-center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="40" alt="Rust">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C">
 
 ### Collaboration
 I'm pretty cool with doing a collab with someone. All you need to do is DM me on Discord. If you have a project in mind, then tell me about that. If you want input from me, also mention that. Or maybe you just want me to playtest a game you made, or give bugfixes. Yeah, that's pretty much it. Collaboration is cool.
