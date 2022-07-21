@@ -19,11 +19,17 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 - Can Reach 14 CPS on mouse, 13 CPS on spacebar, and 20 CPS with both up arrow and spacebar.
 - Making a CPU in Minecraft (1/8 done).
 
+### Tools I Use
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="Visual Studio Code">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="40" alt="Git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="40" alt="Windows">
+
 ### Languages You'll Typically Find Me Coding In
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">
-<img src="https://user-images.githubusercontent.com/97801783/161779304-c572e43a-1650-4244-953a-ede0db5456d3.png" height="40" width="40" alt="C++">
 
 ### Probably Going to Learn These Eventually
 <p align="left-center">
