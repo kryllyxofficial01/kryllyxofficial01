@@ -17,7 +17,7 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
 - Discord: TheRealKryllyx#3227
 - Discord Server: [The Ruckus](https://discord.gg/MDTF5eGUAC)
-- Website: Coming soon to a server near you...
+- Website: https://kryllyxofficial01.github.io/ (nothing here yet, gonna finish a few projects first)
 
 ### Random Facts About Me
 - High Schooler
