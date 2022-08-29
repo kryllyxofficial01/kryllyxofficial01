@@ -1,11 +1,9 @@
 # Hi! I'm Kryllyx!
 
+[![The Ruckus](https://dcbadge.vercel.app/api/server/MDTF5eGUAC?style=flat&)](https://discord.gg/MDTF5eGUAC) [![Kryllyx](https://img.shields.io/youtube/channel/subscribers/UCCvt5Su0rBOPYp17EptU5Sg?style=flat&label=Subscribers&color=FF0000&logo=YouTube)](https://m.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg) [![Profile Views](https://komarev.com/ghpvc/?username=kryllyxoffical01&style=flat&color=blue&label=Profile%20Views)](https://github.com/kryllyxofficial01)
+
 ### About Me
-I'm an amateur software developer who can be a bit too ambitious with projects. I have been coding for around two years, which I think means I can call myself a semi-proficient programmer. I like to play Minecraft, though I focus more on computional redstone (i.e. arithmetic and memory in binary). I also play the rhythm game Geometry Dash from time to time, when I'm not yelling at non-functioning code or broken redstone.
-
-[![The Ruckus](https://dcbadge.vercel.app/api/server/MDTF5eGUAC?style=flat&)](https://discord.gg/MDTF5eGUAC) ![Kryllyx](https://img.shields.io/youtube/channel/subscribers/UCCvt5Su0rBOPYp17EptU5Sg?style=flat&label=Subscribers&color=FF0000&logo=YouTube) ![Profile Views](https://komarev.com/ghpvc/?username=kryllyxoffical01&style=flat&color=blue&label=Profile%20Views)
-
----
+I'm an amateur software developer who can be a bit too ambitious with projects. I have been coding for around two years, which I think means I can call myself a semi-proficient programmer. I typically use Python, but I do program in Java every so often.
 
 <h3 id="my-stuff">My Stuff</h3>
 
@@ -21,15 +19,16 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 
 ### Random Facts About Me
 - High Schooler
-- Currently pursuing a career in Computer Science
-- Can reach 15 CPS
+- Currently pursuing a career in Computer Science.
+- Can reach 15 CPS on mouse and spacebar.
 
 ---
 
 ### Projects I'm Currenly Working On
-- A programming language called *Copper*.
-- A few different computational redstone builds (CPU and word processor).
-- A multipurpose Discord bot called *Parthird* (name is an inside joke).
+- A programming language called [Copper](https://github.com/copperlanguage/copper).
+- A BrainF\*ck Interpreter in redstone (because *why not?*).
+- An 8-Bit CPU in redstone (has been put on hold temporarily).
+- A multipurpose Discord bot called [Parthird](https://github.com/kryllyxofficial01/parthird) (name is an inside joke).
 
 ### Tools I Use
 <p align="left">
@@ -38,12 +37,12 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 <img src="https://user-images.githubusercontent.com/97801783/185406328-19ee4420-f497-4fd6-b214-e82c7ffe4fee.png" height="40" width="40" alt="GitHub Codespaces">
 <img src="https://user-images.githubusercontent.com/97801783/185406854-6c7efe05-8cfa-431b-9653-b1448681850c.png" height="40" width="40" alt="WPILib">
 
-### Languages You'll Typically Find Me Coding In
+### Languages I Use
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">
 
-### Probably Going to Learn These Eventually
+### Languanges I'm Planning to Learn.
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript">
@@ -53,9 +52,11 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 ---
 
 ### Collaboration
-Want to collaborate with me on a project? Just DM me on Discord (username in [My Stuff](#my-stuff)) with the details about the project and what you'd like me to do. I can co-develop it, playtest, or give general feedback about it. Though be aware my help may be limited based upon what the project is made in (Python and Java are my best). But I'm still happy to help.
+I am open to collaboration with you on a project. If you have something you want me to help with (playtesting, bugfixing, suggestions, etc.), I'm happy to help. My help may sometimes be somewhat limited do to the fact that I don't everything (shocker, I know). But I'll still try to do my best.
 
-Collaboration is cool.
+DM me on Discord (username in [My Stuff](#my-stuff) with the details. Just provide me with the overall idea of the project (name, purpose, etc.) and what you want me to do. I'll ask for more detail as needed.
+
+Hope to see your ideas!
 
 ### Credits
 Profile Picture: https://ibispaint.com/art/575208857/
