@@ -32,22 +32,42 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 
 ### Tools I Use
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="Visual Studio Code">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="40" alt="Git">
-<img src="https://user-images.githubusercontent.com/97801783/185406328-19ee4420-f497-4fd6-b214-e82c7ffe4fee.png" height="40" width="40" alt="GitHub Codespaces">
-<img src="https://user-images.githubusercontent.com/97801783/185406854-6c7efe05-8cfa-431b-9653-b1448681850c.png" height="40" width="40" alt="WPILib">
+<a href="https://code.visualstudio.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="Visual Studio Code">
+</a>
+<a href="https://git-scm.com/?scrlybrkr=2a887914">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="40" alt="Git">
+</a>
+<a href="https://docs.github.com/en/codespaces">
+  <img src="https://user-images.githubusercontent.com/97801783/185406328-19ee4420-f497-4fd6-b214-e82c7ffe4fee.png" height="40" width="40" alt="GitHub Codespaces">
+</a>
+<a href="https://wpilib.org/">
+  <img src="https://user-images.githubusercontent.com/97801783/185406854-6c7efe05-8cfa-431b-9653-b1448681850c.png" height="40" width="40" alt="WPILib">
+</a>
 
 ### Languages I Use
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">
+<a href="https://www.python.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python">
+</a>
+<a href="https://www.java.com/en/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">
+</a>
 
 ### Languanges I'm Planning to Learn.
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript">
-<img src="https://user-images.githubusercontent.com/97801783/182677907-a7fb7c71-f844-4e04-9b06-f380d5cc6a51.png" height="40" width="50" alt="Rust">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C">
+<a href="https://html.spec.whatwg.org/multipage/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML">
+</a>
+<a href="https://www.javascript.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript">
+</a>
+<a href="https://www.rust-lang.org/">
+  <img src="https://user-images.githubusercontent.com/97801783/182677907-a7fb7c71-f844-4e04-9b06-f380d5cc6a51.png" height="40" width="50" alt="Rust">
+</a>
+<a href="https://m.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C">
+</a>
 
 ---
 
