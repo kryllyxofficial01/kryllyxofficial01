@@ -20,12 +20,12 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 ### Random Facts About Me
 - High Schooler
 - Currently pursuing a career in Computer Science.
-- Can reach 15 CPS on mouse and spacebar.
+- Can reach 15 CPS on mouse and 19 CPS on spacebar.
 
 ---
 
 ### Projects I'm Currenly Working On
-- A programming language called [Copper](https://github.com/copperlanguage/copper).
+- A programming language called [Copper](https://github.com/copper-lang/copper).
 - A BrainF\*ck Interpreter in redstone (because *why not?*).
 - An 8-Bit CPU in redstone (has been put on hold temporarily).
 - A multipurpose Discord bot called [Parthird](https://github.com/kryllyxofficial01/parthird) (name is an inside joke).
