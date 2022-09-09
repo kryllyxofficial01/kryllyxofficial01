@@ -84,4 +84,8 @@ Profile Picture: https://ibispaint.com/art/575208857/
 
 ### Stats
 
-![Kryllyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryllyxofficial01&show_icons=true&theme=react&custom_title=Github%20Stats&disable_animations=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kryllyxofficial01&show_icons=true&theme=react&custom_title=Github%20Stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kryllyxofficial01&theme=react)](https://git.io/streak-stats)
+
+[![Github Activity](https://activity-graph.herokuapp.com/graph?username=kryllyxofficial01&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
