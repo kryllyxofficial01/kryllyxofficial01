@@ -26,8 +26,7 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 
 ### Projects I'm Currenly Working On
 - A programming language called [Copper](https://github.com/copper-lang/copper).
-- A BrainF\*ck Interpreter in redstone (because *why not?*).
-- An 8-Bit CPU in redstone (has been put on hold temporarily).
+- An 8-Bit CPU in redstone (currently in planning stages).
 - A multipurpose Discord bot called [Parthird](https://github.com/kryllyxofficial01/parthird) (name is an inside joke).
 
 ### Tools I Use
