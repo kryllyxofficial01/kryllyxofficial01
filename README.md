@@ -7,15 +7,18 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 
 <h3 id="my-stuff">My Stuff</h3>
 
-- YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg/)
-- Repl.it: [TheRealKryllyx](https://replit.com/@therealkryllyx)
-- Geometry Dash: [KryllyxGaming](https://gdbrowser.com/u/kryllyxgaming)
-- Minecraft Java: [KryllyxGaming](https://namemc.com/profile/KryllyxGaming.1)
-- Minecraft Bedrock (Xbox Gamertag): KryllyxOfficial
-- Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
-- Discord: TheRealKryllyx#3227
-- Discord Server: [The Ruckus](https://discord.gg/MDTF5eGUAC)
-- Website (still under construction): https://kryllyxofficial01.github.io/
++ General:
+  - YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg/)
+  - Discord: TheRealKryllyx#3227
+  - Discord Server: [The Ruckus](https://discord.gg/MDTF5eGUAC)
+  - Repl.it: [TheRealKryllyx](https://replit.com/@therealkryllyx)
+  - Website (still under construction): https://kryllyxofficial01.github.io/
+
++ Gaming Related
+  - Geometry Dash: [KryllyxGaming](https://gdbrowser.com/u/kryllyxgaming)
+  - Minecraft Java: [KryllyxGaming](https://namemc.com/profile/KryllyxGaming.1)
+  - Minecraft Bedrock (Xbox Gamertag): KryllyxOfficial
+  - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
 
 ### Random Facts About Me
 - High Schooler
@@ -73,7 +76,7 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 ### Collaboration
 I am open to collaboration with you on a project. If you have something you want me to help with (playtesting, bugfixing, suggestions, etc.), I'm happy to help. My help may sometimes be somewhat limited do to the fact that I don't everything (shocker, I know). But I'll still try to do my best.
 
-DM me on Discord (username in [My Stuff](#my-stuff) with the details. Just provide me with the overall idea of the project (name, purpose, etc.) and what you want me to do. I'll ask for more detail as needed.
+DM me on Discord (username in [My Stuff](#my-stuff) under ***General***) with the details. Just provide me with the overall idea of the project (name, purpose, etc.) and what you want me to do. I'll ask for more detail as needed.
 
 Hope to see your ideas!
 
