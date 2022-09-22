@@ -7,18 +7,18 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 
 <h3 id="my-stuff">My Stuff</h3>
 
-+ General:
-  - YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg/)
-  - Discord: TheRealKryllyx#3227
-  - Discord Server: [The Ruckus](https://discord.gg/MDTF5eGUAC)
-  - Repl.it: [TheRealKryllyx](https://replit.com/@therealkryllyx)
-  - Website (still under construction): https://kryllyxofficial01.github.io/
+General:
+- YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg/)
+- Discord: TheRealKryllyx#3227
+- Discord Server: [The Ruckus](https://discord.gg/MDTF5eGUAC)
+- Repl.it: [TheRealKryllyx](https://replit.com/@therealkryllyx)
+- Website (still under construction): https://kryllyxofficial01.github.io/
 
-+ Gaming Related
-  - Geometry Dash: [KryllyxGaming](https://gdbrowser.com/u/kryllyxgaming)
-  - Minecraft Java: [KryllyxGaming](https://namemc.com/profile/KryllyxGaming.1)
-  - Minecraft Bedrock (Xbox Gamertag): KryllyxOfficial
-  - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
+Gaming Related:
+- Geometry Dash: [KryllyxGaming](https://gdbrowser.com/u/kryllyxgaming)
+- Minecraft Java: [KryllyxGaming](https://namemc.com/profile/KryllyxGaming.1)
+- Minecraft Bedrock (Xbox Gamertag): KryllyxOfficial
+- Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
 
 ### Random Facts About Me
 - High Schooler
