@@ -54,7 +54,7 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">
 </a>
 
-### Languanges I'm Planning to Learn:
+### Languages I'm Planning to Learn:
 <p align="left">
 <a href="https://www.java.com/en/">
   <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="40" width="35" alt="C++">
