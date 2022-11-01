@@ -27,7 +27,7 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 
 ### Projects I'm Currently Working On:
 - A programming language called [Copper](https://github.com/copper-lang/copper).
-- An 16-Bit CPU in redstone (Progress: :green_square::green_square::red_square::red_square::red_square::red_square::red_square::red_square::red_square:).
+- An 16-Bit CPU in C++ called [RKS-16](https://github.com/kryllyxofficial01/RKS-16)
 - A multipurpose Discord bot called [Parthird](https://github.com/kryllyxofficial01/parthird) (name is an inside joke).
 
 ### Tools I Use:
