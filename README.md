@@ -32,8 +32,11 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 
 ### Tools I Use:
 <p align="left">
-<a href="https://code.visualstudio.com/">
+<a href="https://code.visualstudio.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="Visual Studio Code">
+</a>
+<a href="https://replit.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" height="40" width="40" alt="Replit">
 </a>
 <a href="https://git-scm.com/?scrlybrkr=2a887914">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="40" alt="Git">
@@ -41,7 +44,7 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 <a href="https://docs.github.com/en/codespaces">
   <img src="https://user-images.githubusercontent.com/97801783/185406328-19ee4420-f497-4fd6-b214-e82c7ffe4fee.png" height="40" width="40" alt="GitHub Codespaces">
 </a>
-<a href="https://wpilib.org/">
+<a href="https://wpilib.org">
   <img src="https://user-images.githubusercontent.com/97801783/185406854-6c7efe05-8cfa-431b-9653-b1448681850c.png" height="40" width="40" alt="WPILib">
 </a>
 
