@@ -27,8 +27,8 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 
 ### Projects I'm Currently Working On:
 - A programming language called [Copper](https://github.com/copper-lang/copper).
-- An 16-Bit CPU in C++ called [RKS-16](https://github.com/kryllyxofficial01/RKS-16)
-- A multipurpose Discord bot called [Parthird](https://github.com/kryllyxofficial01/parthird) (name is an inside joke).
+- An 16-Bit CPU in C++ called [RKS-16](https://github.com/kryllyxofficial01/RKS-16).
+- A multipurpose Discord bot called [Parthird](https://github.com/kryllyxofficial01/parthird).
 
 ### Tools I Use:
 <p align="left">
@@ -72,16 +72,9 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 ---
 
 ### Collaboration:
-I am very much open to collaboration with you. Whether you want me to playtest, give suggestions, bugfix, or participate in a full project, I'm usually pretty ok with that. It's a pretty simple process, really. Either join my Discord server (link in [My Stuff](#my-stuff)) and ask me there, or just DM me at *TheRealKryllyx#3227*.
+I am open to collaboration on projects. Just DM me at *TheRealKryllyx#3227* with the details of the project. Since I have no life, I will probably respond decently quickly, and I'll let you know if I'm available (depends on school or motivation). 
 
-When you contact me, please  give me the following details:
-1. Project Name, Type, and Purpose/Goal
-2. My part in the project
-3. Any other details you feel are important
-
-I will say through, as a quick sort of disclaimer, I may not always accept. It will more often than not be because of school, but I might decline based on what my part is. If literally all I would do is give you confirmation on an idea, I probably won't reply. Also, please, for the love of God, don't spam me with the same request over and over again. I will report you if you do. No one likes spam, including me. So just don't be dumb.
-
-All in all, I would be happy to help you out. Just contact me, give me the details, and boom. Simple. Can't wait to see your ideas!
+Please don't spam me.
 
 ### Credits:
 Profile Picture: https://ibispaint.com/art/575208857/
@@ -89,7 +82,7 @@ Profile Picture: https://ibispaint.com/art/575208857/
 ---
 
 ### Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kryllyxofficial01&show_icons=true&theme=react&custom_title=Github%20Stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kryllyxofficial01&show_icons=true&theme=react&custom_title=Github%20Stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kryllyxofficial01&theme=react)](https://git.io/streak-stats)
 
