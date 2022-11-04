@@ -16,7 +16,7 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 - Minecraft Java: [KryllyxGaming](https://namemc.com/profile/KryllyxGaming.1)
 - Minecraft Bedrock/Xbox Gamertag: KryllyxOfficial
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
-- Reddit: u/KryllyxOfficial
+- Reddit: [u/KryllyxOfficial](https://www.reddit.com/user/KryllyxOfficial)
 
 ### Random Facts About Me:
 - High Schooler
