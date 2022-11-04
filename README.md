@@ -36,7 +36,7 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="Visual Studio Code">
 </a>
 <a href="https://replit.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" height="40" width="40" alt="Replit">
+  <img src="https://user-images.githubusercontent.com/97801783/199977804-e2d80a29-2f81-4985-adfc-eb47c8944481.png" height="40" width="30" alt="Replit">
 </a>
 <a href="https://git-scm.com/?scrlybrkr=2a887914">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="40" alt="Git">
