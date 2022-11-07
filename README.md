@@ -3,24 +3,24 @@
 [![The Ruckus](https://dcbadge.vercel.app/api/server/MDTF5eGUAC?style=flat&)](https://discord.gg/MDTF5eGUAC) [![Kryllyx](https://img.shields.io/youtube/channel/subscribers/UCCvt5Su0rBOPYp17EptU5Sg?style=flat&label=Subscribers&color=FF0000&logo=YouTube)](https://m.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg) ![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/kryllyxofficial?color=FF4500&logo=Reddit&logoColor=FFFFFF) [![Profile Views](https://komarev.com/ghpvc/?username=kryllyxoffical01&style=flat&color=blue&label=Profile%20Views)](https://github.com/kryllyxofficial01)
 
 ### About Me:
-I'm an amateur software developer who can be a bit too ambitious with projects. I have been coding for around two years, which I think means I can call myself a semi-proficient programmer. I typically use Python, but I do program in Java every so often.
+I'm an amateur software developer who has been coding for around two years, which I think means I can call myself a semi-proficient programmer. I typically use Python, but I do program in Java every so often.
 
 <h3 id="my-stuff">My Stuff:</h3>
 
-- YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg/)
+- YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg)
 - Discord: TheRealKryllyx#3227
 - Discord Server: [The Ruckus](https://discord.gg/MDTF5eGUAC)
 - Repl.it: [TheRealKryllyx](https://replit.com/@therealkryllyx)
-- Website (still under construction): https://kryllyxofficial01.github.io/
+- Website (still under construction): https://kryllyxofficial01.github.io
 - Geometry Dash: [KryllyxGaming](https://gdbrowser.com/u/kryllyxgaming)
 - Minecraft Java: [KryllyxGaming](https://namemc.com/profile/KryllyxGaming.1)
-- Minecraft Bedrock/Xbox Gamertag: KryllyxOfficial
-- Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming/)
+- Minecraft Bedrock: KryllyxOfficial
+- Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming)
 - Reddit: [u/KryllyxOfficial](https://www.reddit.com/user/KryllyxOfficial)
 
 ### Random Facts About Me:
 - High Schooler
-- Interested in a career in back-end development.
+- Currently pursuing a career in computer science (possibly back-end development)
 - Can reach 15 CPS on mouse and 19 CPS on spacebar.
 
 ---
@@ -50,19 +50,19 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 
 ### Languages I Use:
 <p align="left">
-<a href="https://www.python.org/">
+<a href="https://www.python.org">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python">
 </a>
-<a href="https://www.java.com/en/">
+<a href="https://www.java.com/en">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">
 </a>
-<a href="https://cplusplus.com/">
+<a href="https://cplusplus.com">
   <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="40" width="35" alt="C++">
 </a>
 
 ### Languages I'm Planning to Learn:
 <p align="left">
-<a href="https://www.rust-lang.org/">
+<a href="https://www.rust-lang.org">
   <img src="https://user-images.githubusercontent.com/97801783/182677907-a7fb7c71-f844-4e04-9b06-f380d5cc6a51.png" height="40" width="50" alt="Rust">
 </a>
 <a href="https://m.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -70,11 +70,6 @@ I'm an amateur software developer who can be a bit too ambitious with projects. 
 </a>
 
 ---
-
-### Collaboration:
-I am open to collaboration on projects. Just DM me at *TheRealKryllyx#3227* with the details of the project. Since I have no life, I will probably respond decently quickly, and I'll let you know if I'm available (depends on school or motivation). 
-
-Please don't spam me.
 
 ### Credits:
 Profile Picture: https://ibispaint.com/art/575208857/
