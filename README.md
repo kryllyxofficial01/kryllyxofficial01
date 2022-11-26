@@ -60,11 +60,14 @@ I'm an amateur software developer who has been coding for around two years, whic
   <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="40" width="35" alt="C++">
 </a>
 
-### Languages I'm Planning to Learn:
+### Languages I'm Currently Learning
 <p align="left">
 <a href="https://www.rust-lang.org">
   <img src="https://user-images.githubusercontent.com/97801783/182677907-a7fb7c71-f844-4e04-9b06-f380d5cc6a51.png" height="40" width="50" alt="Rust">
 </a>
+
+### Languages I'm Planning to Learn:
+<p align="left">
 <a href="https://m.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C">
 </a>
