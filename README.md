@@ -75,13 +75,9 @@ I'm an amateur software developer who has been coding for around two years, whic
 ---
 
 ### Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kryllyxofficial01&show_icons=true&theme=react&custom_title=Github%20Stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=kryllyxofficial01&theme=react)](https://git.io/streak-stats)
 
 [![Github Activity](https://activity-graph.herokuapp.com/graph?username=kryllyxofficial01&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kryllyxofficial01&hide=Dockerfile,Makefile&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=kryllyxofficial01&theme=algolia&)](https://github.com/ryo-ma/github-profile-trophy)
 
