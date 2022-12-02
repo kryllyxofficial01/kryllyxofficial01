@@ -81,8 +81,6 @@ I'm an amateur software developer who has been coding for around two years, whic
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryllyxofficial01&theme=react&hide=Dockerfile,Makefile&layout=compact)
 
-![Github Activity](https://activity-graph.herokuapp.com/graph?username=kryllyxofficial01&theme=react-dark)
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kryllyxofficial01&theme=algolia&)
 
 ---
