@@ -27,7 +27,7 @@ I'm an amateur software developer who has been coding for around two years, whic
 
 ### Projects I'm Currently Working On:
 - A programming language called [Copper](https://github.com/copper-lang/copper).
-- An 16-Bit CPU in C++ called [RKS-16](https://github.com/kryllyxofficial01/RKS-16).
+- An 16-Bit CPU called "RKS-16", with a custom assembly language called "RKS" (pronounced *ruckus*).
 - A multipurpose Discord bot called [Parthird](https://github.com/kryllyxofficial01/parthird).
 
 ### Tools I Use:
