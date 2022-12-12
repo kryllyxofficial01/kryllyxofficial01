@@ -13,7 +13,7 @@ I'm an amateur software developer who has been coding for around two years, whic
 - Repl.it: [TheRealKryllyx](https://replit.com/@therealkryllyx)
 - Website (still under construction): https://kryllyxofficial01.github.io
 - Geometry Dash: [KryllyxGaming](https://gdbrowser.com/u/kryllyxgaming)
-- Minecraft Java: [KryllyxGaming](https://namemc.com/profile/KryllyxGaming.1)
+- Minecraft Java: [KryllyxGaming](https://namemc.com/profile/TheRealKryllyx.1)
 - Minecraft Bedrock: KryllyxOfficial
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming)
 - Reddit: [u/KryllyxOfficial](https://www.reddit.com/user/KryllyxOfficial)
