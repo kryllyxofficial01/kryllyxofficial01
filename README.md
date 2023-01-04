@@ -14,21 +14,18 @@ I'm an amateur software developer who has been coding for around two years, whic
 - Website (still under construction): https://kryllyxofficial01.github.io
 - Geometry Dash: [KryllyxGaming](https://gdbrowser.com/u/kryllyxgaming)
 - Minecraft Java: [TheRealKryllyx](https://namemc.com/profile/TheRealKryllyx.1)
-- Minecraft Bedrock: KryllyxOfficial
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming)
 - Reddit: [u/KryllyxOfficial](https://www.reddit.com/user/KryllyxOfficial)
 
 ### Random Facts About Me:
 - High Schooler
-- Currently pursuing a career in computer science (possibly back-end development)
+- Currently pursuing a career in computer science/engineering (possibly low-level programming)
 - Can reach 15-16 CPS on mouse and 19 CPS on spacebar.
 
 ---
 
 ### Projects I'm Currently Working On:
-- A programming language called [Copper](https://github.com/copper-lang/copper).
-- An 16-Bit CPU called [RKS-16](https://github.com/kryllyxofficial01/RKS-16) with a custom assembly language.
-- A multipurpose Discord bot called [Parthird](https://github.com/kryllyxofficial01/parthird).
+- A 16-Bit CPU called [RKS-16](https://github.com/kryllyxofficial01/RKS-16) with a custom assembly language.
 
 ### Tools I Use:
 <p align="left">
