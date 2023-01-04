@@ -3,7 +3,7 @@
 [![The Ruckus](https://dcbadge.vercel.app/api/server/MDTF5eGUAC?style=flat&theme=default-inverted)](https://discord.gg/MDTF5eGUAC) [![Kryllyx](https://img.shields.io/youtube/channel/subscribers/UCCvt5Su0rBOPYp17EptU5Sg?style=flat&label=Subscribers&color=FF0000&logo=YouTube)](https://m.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg) [![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/kryllyxofficial?color=FF4500&logo=Reddit&logoColor=FFFFFF)](https://www.reddit.com/user/KryllyxOfficial) [![Profile Views](https://komarev.com/ghpvc/?username=kryllyxoffical01&style=flat&color=blue&label=Profile%20Views)](https://github.com/kryllyxofficial01)
 
 ### About Me:
-I'm an amateur software developer who has been coding for around two years, which I think means I can call myself a semi-proficient programmer. I typically use Python, but I do program in Java every so often.
+I'm an amateur software developer who has been coding for around two years, which I think means I can call myself a semi-proficient programmer. I am apparently a polyglot, as I am capable of programming in Python, C++, Java, and Rust.
 
 <h3 id="my-stuff">My Stuff:</h3>
 
@@ -59,9 +59,6 @@ I'm an amateur software developer who has been coding for around two years, whic
 <a href="https://cplusplus.com">
   <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="40" width="35" alt="C++">
 </a>
-
-### Languages I'm Currently Learning
-<p align="left">
 <a href="https://www.rust-lang.org">
   <img src="https://user-images.githubusercontent.com/97801783/182677907-a7fb7c71-f844-4e04-9b06-f380d5cc6a51.png" height="40" width="50" alt="Rust">
 </a>
