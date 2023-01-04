@@ -21,13 +21,13 @@ I'm an amateur software developer who has been coding for around two years, whic
 ### Random Facts About Me:
 - High Schooler
 - Currently pursuing a career in computer science (possibly back-end development)
-- Can reach 15 CPS on mouse and 19 CPS on spacebar.
+- Can reach 15-16 CPS on mouse and 19 CPS on spacebar.
 
 ---
 
 ### Projects I'm Currently Working On:
 - A programming language called [Copper](https://github.com/copper-lang/copper).
-- An 16-Bit CPU called "RKS-16", with a custom assembly language called [rks](https://github.com/kryllyxofficial01/rks) (pronounced *ruckus*).
+- An 16-Bit CPU called [RKS-16](https://github.com/kryllyxofficial01/RKS-16) with a custom assembly language.
 - A multipurpose Discord bot called [Parthird](https://github.com/kryllyxofficial01/parthird).
 
 ### Tools I Use:
