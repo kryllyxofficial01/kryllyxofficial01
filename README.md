@@ -44,6 +44,9 @@ I'm an amateur software developer who has been coding for around two years, whic
 <a href="https://wpilib.org">
   <img src="https://user-images.githubusercontent.com/97801783/185406854-6c7efe05-8cfa-431b-9653-b1448681850c.png" height="40" width="40" alt="WPILib">
 </a>
+<a href="https://arduino.cc">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" width="40" alt="Arduino">
+</a>
 
 ### Languages I Use:
 <p align="left">
