@@ -19,7 +19,7 @@ I'm an amateur software developer who has been coding for over two and a half ye
 
 ### Random Facts About Me:
 - High Schooler
-- Currently pursuing a career in computer science/engineering (possibly low-level programming)
+- Currently pursuing a career in computer science (possibly low-level programming)
 - Can reach 15-16 CPS on mouse and 19 CPS on spacebar.
 
 ---
