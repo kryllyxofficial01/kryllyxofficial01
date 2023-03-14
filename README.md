@@ -6,7 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=kryllyxoffical01&style=flat&color=blue&label=Profile%20Views)](https://github.com/kryllyxofficial01)
 
 ### About Me:
-I'm an amateur software developer who has been coding for over two and a half years, which I think means I can call myself a semi-proficient programmer. I am apparently a polyglot, as I am capable of programming in Python, C++, Java, and Rust.
+I'm an amateur software developer who has been coding for over two and a half years, which I think means I can call myself a semi-proficient programmer. I am apparently a polyglot, as I am capable of programming in Python, C++, and Java.
 
 <h3 id="my-stuff">My Stuff:</h3>
 
