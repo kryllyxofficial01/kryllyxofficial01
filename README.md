@@ -56,11 +56,11 @@ I'm an amateur software developer who has been coding for over two and a half ye
 <a href="https://www.python.org">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python">
 </a>
-<a href="https://www.java.com/en">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">
-</a>
 <a href="https://cplusplus.com">
   <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="40" width="35" alt="C++">
+</a>
+<a href="https://www.java.com/en">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">
 </a>
 
 ### Languages I'm Planning to Learn:
