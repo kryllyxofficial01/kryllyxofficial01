@@ -27,8 +27,9 @@ I'm an amateur software developer who has been coding for over two and a half ye
 
 ---
 
-### Projects I'm Currently Working On:
-- A 16-Bit CPU called [RKS-16](https://github.com/kryllyxofficial01/RKS-16) with a custom assembly language.
+### Current Projects:
+- A 16-Bit CPU called [RKS-16](https://github.com/kryllyxofficial01/RKS-16).
+- A very basic OS called [PikeOS](https://github.com/kryllyxofficial01/PikeOS) with a custom assembly language.
 
 ### Tools I Use:
 <p align="left">
