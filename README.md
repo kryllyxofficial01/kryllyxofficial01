@@ -29,7 +29,7 @@ I'm an amateur software developer who has been coding for over two and a half ye
 
 ### Current Projects:
 - A 16-Bit CPU called [RKS-16](https://github.com/kryllyxofficial01/RKS-16).
-- A very basic OS called [PikeOS](https://github.com/kryllyxofficial01/PikeOS) with a custom assembly language.
+- A very basic OS called [PikeOS](https://github.com/kryllyxofficial01/PikeOS).
 
 ### Tools I Use:
 <p align="left">
