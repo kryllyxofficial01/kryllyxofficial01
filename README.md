@@ -6,15 +6,14 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=kryllyxoffical01&style=flat&color=blue&label=Profile%20Views)](https://github.com/kryllyxofficial01)
 
 ### About Me:
-I'm an amateur software developer who has been coding for over two and a half years, which I think means I can call myself a semi-proficient programmer. My main languages are Python, C++, and Java.
+I'm an intermediate software developer who has been coding for almost three years, which I think means I can call myself a proficient programmer. My go-to languages are C++ and Python, but I do use Java from time to time for robotics.
 
-<h3 id="my-stuff">My Stuff:</h3>
-
+### My Stuff
 - YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg)
 - Discord: TheRealKryllyx#3227
 - Discord Server: [The Ruckus](https://discord.gg/MDTF5eGUAC)
 - Repl.it: [TheRealKryllyx](https://replit.com/@therealkryllyx)
-- Website (still under construction): https://kryllyxofficial01.github.io
+- Website (empty until I actually learn HTML): https://kryllyxofficial01.github.io
 - Geometry Dash: [KryllyxGaming](https://gdbrowser.com/u/kryllyxgaming)
 - Minecraft Java: [TheRealKryllyx](https://namemc.com/profile/TheRealKryllyx.1)
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming)
@@ -23,7 +22,7 @@ I'm an amateur software developer who has been coding for over two and a half ye
 ### Random Facts About Me:
 - High Schooler
 - Currently pursuing a career in computer science (possibly low-level programming)
-- Can reach 15-16 CPS on mouse and 19 CPS on spacebar.
+- My favorite games are Celeste (I'm not a femboy, I swear), Geometry Dash, and Minecraft
 
 ---
 
@@ -36,20 +35,11 @@ I'm an amateur software developer who has been coding for over two and a half ye
 <a href="https://code.visualstudio.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="Visual Studio Code">
 </a>
-<a href="https://replit.com">
-  <img src="https://user-images.githubusercontent.com/97801783/199977804-e2d80a29-2f81-4985-adfc-eb47c8944481.png" height="40" width="30" alt="Replit">
-</a>
 <a href="https://git-scm.com/?scrlybrkr=2a887914">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="40" alt="Git">
 </a>
-<a href="https://docs.github.com/en/codespaces">
-  <img src="https://user-images.githubusercontent.com/97801783/185406328-19ee4420-f497-4fd6-b214-e82c7ffe4fee.png" height="40" width="40" alt="GitHub Codespaces">
-</a>
 <a href="https://wpilib.org">
   <img src="https://user-images.githubusercontent.com/97801783/185406854-6c7efe05-8cfa-431b-9653-b1448681850c.png" height="40" width="40" alt="WPILib">
-</a>
-<a href="https://arduino.cc">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" width="40" alt="Arduino">
 </a>
 
 ### Languages I Use:
