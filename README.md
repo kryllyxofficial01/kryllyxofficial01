@@ -22,13 +22,12 @@ I'm an intermediate software developer who has been coding for almost three year
 ### Random Facts About Me:
 - High Schooler
 - Currently pursuing a career in computer science (possibly low-level programming)
-- My favorite games are Celeste (I'm not a femboy, I swear), Geometry Dash, and Minecraft
+- My favorite games are Celeste, Geometry Dash, and Minecraft (I'm not a femboy, I swear)
 
 ---
 
 ### Current Projects:
 - A 16-Bit CPU called [RKS-16](https://github.com/kryllyxofficial01/RKS-16).
-- A very basic OS called [PikeOS](https://github.com/kryllyxofficial01/PikeOS).
 
 ### Tools I Use:
 <p align="left">
