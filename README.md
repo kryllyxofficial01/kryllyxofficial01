@@ -1,7 +1,7 @@
 # Hi! I'm Kryllyx!
 
 [![The Ruckus](https://dcbadge.vercel.app/api/server/MDTF5eGUAC?style=flat&theme=default-inverted)](https://discord.gg/MDTF5eGUAC)
-[![Kryllyx](https://img.shields.io/youtube/channel/subscribers/UCCvt5Su0rBOPYp17EptU5Sg?style=flat&label=Subscribers&color=FF0000&logo=YouTube)](https://m.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg)
+[![Kryllyx](https://img.shields.io/youtube/channel/subscribers/@KryllyxOfficial?style=flat&label=Subscribers&color=FF0000&logo=YouTube)](https://www.youtube.com/@KryllyxOfficial)
 [![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/kryllyxofficial?color=FF4500&logo=Reddit&logoColor=FFFFFF)](https://www.reddit.com/user/KryllyxOfficial)
 [![Profile Views](https://komarev.com/ghpvc/?username=kryllyxoffical01&style=flat&color=blue&label=Profile%20Views)](https://github.com/kryllyxofficial01)
 
