@@ -37,6 +37,9 @@ I'm an intermediate software developer who has been coding for almost three year
 <a href="https://wpilib.org">
   <img src="https://user-images.githubusercontent.com/97801783/185406854-6c7efe05-8cfa-431b-9653-b1448681850c.png" height="40" width="40" alt="WPILib">
 </a>
+<a href="https://neovim.io/">
+  <img src="https://github.com/kryllyxofficial01/kryllyxofficial01/assets/97801783/d45907fa-edad-4a8a-84c1-868f02fa17fd" height="40" width="35" alt="Neovim">
+</a>
 
 ### Languages I Use:
 <p align="left">
