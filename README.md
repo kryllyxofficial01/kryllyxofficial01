@@ -26,10 +26,6 @@ I'm an intermediate software developer who has been coding for almost three year
 
 ---
 
-### Current Projects:
-- A 16-Bit CPU called [RKS-16](https://github.com/kryllyxofficial01/RKS-16).
-- A [terminal system](https://github.com/kryllyxofficial01/terminal-system) with custom shell commands and its own filesystem.
-
 ### Tools I Use:
 <p align="left">
 <a href="https://code.visualstudio.com">
