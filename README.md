@@ -22,7 +22,7 @@ I'm an intermediate software developer who has been coding for almost three year
 ### Random Facts About Me:
 - High Schooler
 - Currently pursuing a career in computer science (possibly low-level programming)
-- My favorite games are Celeste, Geometry Dash, and Minecraft (I'm not a femboy, I swear)
+- Proud owner of a 3D printed bust of Nikola Tesla.
 
 ---
 
