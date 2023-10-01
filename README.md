@@ -21,7 +21,7 @@ I'm an intermediate software developer who has been coding for almost three year
 
 ### Random Facts About Me:
 - High Schooler
-- Currently pursuing a career in computer science (possibly low-level programming)
+- Currently pursuing a career in computer science (something in the realm of computer engineering)
 - Proud owner of a 3D printed bust of Nikola Tesla.
 
 ---
