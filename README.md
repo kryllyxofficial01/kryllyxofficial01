@@ -10,7 +10,6 @@ I'm an intermediate software developer who has been coding for almost three year
 
 ### My Stuff
 - YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg)
-- Discord: TheRealKryllyx#3227
 - Discord Server: [The Ruckus](https://discord.gg/MDTF5eGUAC)
 - Repl.it: [TheRealKryllyx](https://replit.com/@therealkryllyx)
 - Website (empty until I actually learn HTML): https://kryllyxofficial01.github.io
