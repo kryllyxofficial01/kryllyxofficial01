@@ -20,7 +20,7 @@ I'm an intermediate software developer who has been coding for almost three year
 
 ### Random Facts About Me:
 - High Schooler
-- Currently pursuing a career in computer science (something in the realm of computer engineering)
+- Currently pursuing a career in computer engineering.
 - Proud owner of a 3D printed bust of Nikola Tesla.
 
 ---
@@ -51,9 +51,6 @@ I'm an intermediate software developer who has been coding for almost three year
 <a href="https://www.java.com/en">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">
 </a>
-
-### Languages I'm Planning to Learn:
-<p align="left">
 <a href="https://m.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C">
 </a>
