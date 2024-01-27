@@ -6,7 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=kryllyxoffical01&style=flat&color=blue&label=Profile%20Views)](https://github.com/kryllyxofficial01)
 
 ### About Me:
-I'm an intermediate software developer who has been coding for almost three years, which I think means I can call myself a proficient programmer. My go-to languages are C++ and Python, but I do use Java from time to time for robotics.
+I'm an intermediate software developer who has been coding for around three years, which I think means I can call myself a proficient programmer. My go-to languages are C++ and Python, but I do use Java from time to time for robotics.
 
 ### My Stuff
 - YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg)
