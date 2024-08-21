@@ -6,7 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=kryllyxoffical01&style=flat&color=blue&label=Profile%20Views)](https://github.com/kryllyxofficial01)
 
 ### About Me:
-I'm an intermediate software developer who has been coding for around three years, which I think means I can call myself a proficient programmer. My go-to languages are C++ and Python, but I do use Java from time to time for robotics.
+I'm an intermediate software developer who has been coding for around four years, which I think means I can call myself a proficient programmer. I tend to gravitate towards C and C++, and occasionally Python, for my personal projects, but I also use Java pretty often for [robotics](https://github.com/RAR1741).
 
 ### My Stuff
 - YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg)
@@ -14,11 +14,6 @@ I'm an intermediate software developer who has been coding for around three year
 - Repl.it: [TheRealKryllyx](https://replit.com/@therealkryllyx)
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming)
 - Reddit: [u/KryllyxOfficial](https://www.reddit.com/user/KryllyxOfficial)
-
-### Random Facts About Me:
-- High Schooler
-- Currently pursuing a career in computer engineering.
-- Proud owner of a 3D printed bust of Nikola Tesla.
 
 ---
 
