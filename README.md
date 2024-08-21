@@ -12,9 +12,6 @@ I'm an intermediate software developer who has been coding for around three year
 - YouTube: [Kryllyx](https://www.youtube.com/channel/UCCvt5Su0rBOPYp17EptU5Sg)
 - Discord Server: [The Ruckus](https://discord.gg/MDTF5eGUAC)
 - Repl.it: [TheRealKryllyx](https://replit.com/@therealkryllyx)
-- Website (empty until I actually learn HTML): https://kryllyxofficial01.github.io
-- Geometry Dash: [KryllyxGaming](https://gdbrowser.com/u/kryllyxgaming)
-- Minecraft Java: [TheRealKryllyx](https://namemc.com/profile/TheRealKryllyx.1)
 - Steam: [KryllyxGaming](https://steamcommunity.com/id/KryllyxGaming)
 - Reddit: [u/KryllyxOfficial](https://www.reddit.com/user/KryllyxOfficial)
 
@@ -42,17 +39,17 @@ I'm an intermediate software developer who has been coding for around three year
 
 ### Languages I Use:
 <p align="left">
-<a href="https://www.python.org">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python">
-</a>
 <a href="https://cplusplus.com">
   <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="40" width="35" alt="C++">
+</a>
+<a href="https://m.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C">
 </a>
 <a href="https://www.java.com/en">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">
 </a>
-<a href="https://m.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C">
+<a href="https://www.python.org">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python">
 </a>
 
 ---
@@ -65,8 +62,3 @@ I'm an intermediate software developer who has been coding for around three year
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryllyxofficial01&theme=react&hide=Dockerfile,Makefile&layout=compact)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kryllyxofficial01&theme=algolia&)
-
----
-  
-### Credits:
-Profile Picture: https://ibispaint.com/art/575208857/
