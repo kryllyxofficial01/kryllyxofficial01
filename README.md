@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kryllyxoffical01&style=flat&color=blue&label=Profile%20Views)
 
 ### About Me:
-I'm an intermediate software developer who has been coding for around four or five years, which I think means I can call myself a proficient programmer. I tend to gravitate towards C and C++, and occasionally Python, for my personal projects, but I also use Java pretty often for [robotics](https://github.com/RAR1741).
+I'm an aspiring computer engineer studying at Purdue University (class of 2029), with a strong interest in low-level development and integrated circuits. My main programming language for hobby projects is usually C, but I am also proficient in C++, Python, and Java. And following a full four years in FIRST robotics, I was able to garner skills in the design, construction, and implementation of robotics systems (namely the electronic wiring and programming of them).
 
 ---
 
