@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kryllyxoffical01&style=flat&color=blue&label=Profile%20Views)
 
 ### About Me:
-I'm an aspiring computer engineer studying at Purdue University (class of 2029), with a strong interest in low-level development and integrated circuits. My main programming language for hobby projects is usually C, but I am also proficient in C++, Python, and Java. And following a full four years in FIRST robotics, I was able to garner skills in the design, construction, and implementation of robotics systems (namely the electronic wiring and programming of them).
+I'm an aspiring electrical engineer studying at Purdue University (class of 2029), with a strong interest in low-level development and integrated circuits. My main programming language for hobby projects is usually C, but I am also proficient in C++, Python, and Java. After six years in FIRST Robotics (two years in FTC and four in FRC), I found enjoyment in the design, construction, and implementation of robotic systems (namely the electronic wiring and programming of them).
 
 ---
 
